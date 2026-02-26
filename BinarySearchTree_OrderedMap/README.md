@@ -1,7 +1,6 @@
 # Binary Search Tree (Ordered Map)
 
-This folder demonstrates an **Ordered Map / Ordered Symbol Table**
-implemented using a **Binary Search Tree (BST)**.
+This folder demonstrates an **Ordered Map / Ordered Symbol Table** implemented using a **Binary Search Tree (BST)**.
 
 ## What it shows
 - Insert / update
