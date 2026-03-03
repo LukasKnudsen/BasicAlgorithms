@@ -33,5 +33,5 @@ Space complexity: **O(n + m)**
 
 ## Files
 
-- `Graph.java` – adjacency list + BFS bipartite check
-- `Main.java` – input handling and execution
+- `Graph.java` 
+- `Main.java` 
